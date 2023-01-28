@@ -1,0 +1,7 @@
+
+#self.country_name:str = self.data['country']
+#self.country_flag:any = self.data['countryInfo']['flag']
+#self.country_iso2:str = self.data['countryInfo']['iso2']
+#self.country_iso3:str = self.data['countryInfo']['iso3']
+#self.country_population: int = self.data['population']
+#print('El pais es {} su bandera es {} su iso2 {} e iso3 {} con poblacion {}'.format(self.country_name, self.country_flag, self.country_iso2, self.country_iso3, self.country_population))
